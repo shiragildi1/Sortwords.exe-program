@@ -1,5 +1,7 @@
 Author: Shira Giladi
+
 --Sortwords.exe program--
+
 The program does two main things:
 1. Prints the most common word in file F1 and its count.
 2. Sorting options: ascending or descending sorting of all words from F1 (sort -a, sort -d) and writes the result to file F2
@@ -20,5 +22,6 @@ Using the --WordSorter-- class based on the selected option, sorting the words a
 
 
 Thank you!,
+
 Shira
 
